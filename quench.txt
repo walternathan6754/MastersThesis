@@ -1,0 +1,39 @@
+ #!/bin/bash
+
+#################################
+#PBS -l walltime=6:00:00
+#PBS -l nodes=2:ppn=12
+#PBS -N Quench_Calculation
+#PBS -q cse
+#PBS -W group_list=npre_zhyang
+
+#################################
+
+cd $PBS_O_WORKDIR
+
+source /home/walter9/standard_gromacs/bin/GMXRC
+
+echo "Quench energy" > quench_energy.txt
+
+grompp_standard -f em.mdp -c quench.gro -p argon.top -o em.tpr &>/dev/null
+mdrun_standard -deffnm em 2>&1 | grep Potential >> quench_energy.txt
+
+COUNTER=0
+
+while [ $COUNTER -lt 10000 ]; do
+    
+    if [ $COUNTER == 0 ]; then
+	grompp_standard -f nvt_first.mdp -c em.gro -p argon.top -o nvt.tpr &>/dev/null
+    else
+	grompp_standard -f nvt.mdp -c nvt.gro -p argon.top -o nvt.tpr &>/dev/null
+    fi
+    
+    mdrun_standard -deffnm nvt &>/dev/null
+
+    grompp_standard -f em.mdp -c nvt.gro -p argon.top -o em.tpr &>/dev/null
+    mdrun_standard -deffnm em 2>&1 | grep Potential >> quench_energy.txt
+
+    let COUNTER=COUNTER+1
+    
+    rm \#*
+done

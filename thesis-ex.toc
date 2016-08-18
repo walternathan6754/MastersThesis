@@ -1,0 +1,38 @@
+\contentsline {chapter}{List of Tables}{vii}
+\contentsline {chapter}{List of Figures}{viii}
+\contentsline {chapter}{List of Abbreviations}{xii}
+\contentsline {chapter}{List of Symbols}{xiii}
+\contentsline {chapter}{Chapter\ 1\hskip 1em\relax Introduction}{1}
+\contentsline {chapter}{Chapter\ 2\hskip 1em\relax Classical Nucleation Theory}{5}
+\contentsline {section}{\numberline {2.1}Estimating the Energy Barrier}{6}
+\contentsline {section}{\numberline {2.2}Inaccuracies of CNT Application}{10}
+\contentsline {section}{\numberline {2.3}Extending CNT}{13}
+\contentsline {chapter}{Chapter\ 3\hskip 1em\relax Metadynamics Methods}{15}
+\contentsline {section}{\numberline {3.1}Energy Landscape}{15}
+\contentsline {section}{\numberline {3.2}Metadynamics Method}{17}
+\contentsline {section}{\numberline {3.3}Implementation and Benchmarking}{19}
+\contentsline {section}{\numberline {3.4}Appropriate Simulation Parameters}{23}
+\contentsline {section}{\numberline {3.5}Mapping the Landscape to Temperature}{26}
+\contentsline {section}{\numberline {3.6}Measure of Atomic Structure}{28}
+\contentsline {chapter}{Chapter\ 4\hskip 1em\relax Nucleation of a Model Lennard-Jones Liquid}{31}
+\contentsline {section}{\numberline {4.1}System}{31}
+\contentsline {section}{\numberline {4.2}Real Space and Structure}{34}
+\contentsline {section}{\numberline {4.3}Energy Barriers}{37}
+\contentsline {section}{\numberline {4.4}Nucleation Rate and Interpolation to Time}{41}
+\contentsline {chapter}{Chapter\ 5\hskip 1em\relax Energy Landscapes of a Glass Former and Crystal Former}{45}
+\contentsline {section}{\numberline {5.1}Theory and Background}{45}
+\contentsline {section}{\numberline {5.2}Results}{46}
+\contentsline {chapter}{Chapter\ 6\hskip 1em\relax Conclusions and Future Work}{49}
+\contentsline {section}{\numberline {6.1}Conclusions}{49}
+\contentsline {section}{\numberline {6.2}Future Work}{50}
+\contentsline {chapter}{Appendix\ A\hskip 1em\relax Implementation of Metadynamics into GROMACS}{54}
+\contentsline {chapter}{Appendix\ B\hskip 1em\relax LiquidLib}{56}
+\contentsline {chapter}{Appendix\ C\hskip 1em\relax Structurally Restrained Metadynamics and Steepest Ascent}{58}
+\contentsline {section}{\numberline {C.1}Objective and Theory}{58}
+\contentsline {section}{\numberline {C.2}Bond Order Parameter Restrained Metadynamics}{58}
+\contentsline {section}{\numberline {C.3}Bond Order Parameter Restrained, with the Option to Unfreeze, Metadynamics}{61}
+\contentsline {section}{\numberline {C.4}Steepest Ascent}{62}
+\contentsline {chapter}{Appendix\ D\hskip 1em\relax ST2 Water}{65}
+\contentsline {section}{\numberline {D.1}Theory and Model}{65}
+\contentsline {section}{\numberline {D.2}Preliminary Results}{67}
+\contentsline {chapter}{References}{69}

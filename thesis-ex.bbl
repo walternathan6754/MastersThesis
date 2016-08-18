@@ -1,0 +1,324 @@
+\begin{thebibliography}{10}
+
+\bibitem{HANSEN2006v}
+Jean-Pierre Hansen and Ian~R. McDonald.
+\newblock {\em Theory of Simple Liquids (Third Edition)}.
+\newblock Academic Press, Burlington, third edition edition, 2006.
+
+\bibitem{EGELSTAFF}
+P.~Egelstaff.
+\newblock {\em An Introduction to the liquid state}.
+\newblock Elsevier Science, 2012.
+
+\bibitem{askeland2011the}
+D.R. Askeland, P.P. Fulay, and W.J. Wright.
+\newblock {\em The Science and Engineering of Materials, SI Edition}.
+\newblock Cengage Learning, 2011.
+
+\bibitem{Sear2016}
+Richard Sear.
+\newblock {What do crystals nucleate on? What is the microscopic mechanism? How
+  can we model nucleation?}
+\newblock {\em MRS Bulletin}, 41(05):363--368, 2016.
+
+\bibitem{Schmelzer2005}
+J.W.P. Schmelzer.
+\newblock {\em Nucleation Theory and Applications}.
+\newblock Wiley, 2006.
+
+\bibitem{barrett1973the}
+C.R. Barrett, W.D. Nix, and A.S. Tetelman.
+\newblock {\em The Principles of Engineering Materials}.
+\newblock Prentice-Hall, 1973.
+
+\bibitem{Cavagna2009}
+Andrea Cavagna.
+\newblock {Supercooled liquids for pedestrians}.
+\newblock {\em Physics Reports}, 476(4-6):51--124, 2009.
+
+\bibitem{ReintenWolde1996}
+Pieter {Rein ten Wolde}, Maria~J. Ruiz-Montero, and Daan Frenkel.
+\newblock {Numerical calculation of the rate of crystal nucleation in a
+  Lennard-Jones system at moderate undercooling}.
+\newblock {\em The Journal of Chemical Physics}, 104(24):9932, 1996.
+
+\bibitem{Sanz2013}
+E.~Sanz, C.~Vega, J.~R. Espinosa, R.~Caballero-Bernal, J.~L~F Abascal, and
+  C.~Valeriani.
+\newblock {Homogeneous ice nucleation at moderate supercooling from molecular
+  simulation}.
+\newblock {\em Journal of the American Chemical Society}, 135(40):15008--15017,
+  2013.
+
+\bibitem{Reguera2013}
+David Reguera.
+\newblock {How far is classical nucleation theory from predicting nucleation
+  rates accurately?}
+\newblock {\em AIP Conference Proceedings}, 1527(2013):9--14, 2013.
+
+\bibitem{Chkonia2009}
+Guram Chkonia, Judith W\"{o}lk, Reinhard Strey, Jan Wedekind, and David
+  Reguera.
+\newblock {Evaluating nucleation rates in direct simulations}.
+\newblock {\em Journal of Chemical Physics}, 130(6), 2009.
+
+\bibitem{debenedetti1996metastable}
+P.G. Debenedetti.
+\newblock {\em Metastable Liquids: Concepts and Principles}.
+\newblock Physical chemistry : science and engineering. Princeton University
+  Press, 1996.
+
+\bibitem{mutaftschiev2001atomistic}
+B.~Mutaftschiev.
+\newblock {\em The Atomistic Nature of Crystal Growth}.
+\newblock Springer Series in Materials Science. Springer Berlin Heidelberg,
+  2001.
+
+\bibitem{Vehkamaki2006}
+H.~Vehkam{\"a}ki.
+\newblock {\em Classical Nucleation Theory in Multicomponent Systems}.
+\newblock Springer Berlin Heidelberg, 2006.
+
+\bibitem{Oxtoby1992}
+David~W Oxtoby.
+\newblock {Homogeneous nucleation: theory and experiment}.
+\newblock {\em Journal of Physics: Condensed Matter}, 4(38):7627--7650, 1992.
+
+\bibitem{Espinosa2016}
+Jorge~R. Espinosa, Carlos Vega, Chantal Valeriani, and Eduardo Sanz.
+\newblock {Seeding approach to crystal nucleation}.
+\newblock {\em Journal of Chemical Physics}, 144(3), 2016.
+
+\bibitem{Auer2001}
+Stefan Auer and Daan Frenkel.
+\newblock {Prediction of absolute crystal-nucleation rate in hard-sphere
+  colloids}.
+\newblock {\em Nature}, 409(6823):1020--1023, February 2001.
+
+\bibitem{DeYoreo2016}
+Jim {De Yoreo} and Stephen Whitelam.
+\newblock {Nucleation in atomic, molecular, and colloidal systems}.
+\newblock {\em MRS Bulletin}, 41(05):357--360, 2016.
+
+\bibitem{Braig2011}
+Takeshi Kawasaki and Hajime Tanaka.
+\newblock Formation of a crystal nucleus from liquid.
+\newblock {\em Proceedings of the National Academy of Sciences},
+  107(32):14036--14041, 2010.
+
+\bibitem{Vekilov2016}
+Peter~G. Vekilov, Sungwook Chung, and Katy~N. Olafson.
+\newblock {Shape change in crystallization of biological macromolecules}.
+\newblock {\em MRS Bulletin}, 41(May):375, 2016.
+
+\bibitem{Goldstein1969}
+M~Goldstein.
+\newblock {Viscous Liquids and the Glass Transition: A Potential Energy Barrier
+  Picture}.
+\newblock {\em The Journal of Chemical Physics}, 51(9):3728--3739, 1969.
+
+\bibitem{Shell2003}
+M.~Scott Shell, Pablo~G. Debenedetti, Emilia {La Nave}, and Francesco
+  Sciortino.
+\newblock {Energy landscapes, ideal glasses, and their equation of state}.
+\newblock {\em The Journal of Chemical Physics}, 118(19):8821, 2003.
+
+\bibitem{Middleton2001}
+Thomas Middleton and David Wales.
+\newblock {Energy landscapes of some model glass formers}.
+\newblock {\em Physical Review B}, 64(2):1--20, 2001.
+
+\bibitem{Angell1997}
+C.a. Angell.
+\newblock {Landscapes with megabasins: Polyamorphism in liquids and biopolymers
+  and the role of nucleation in folding and folding diseases}.
+\newblock {\em Physica D: Nonlinear Phenomena}, 107(2-4):122--142, September
+  1997.
+
+\bibitem{Debenedetti2001}
+Pablo~G Debenedetti, Thomas~M Truskett, Catherine~P Lewis, and Frank~H
+  Stillinger.
+\newblock {Theory of supercooled liquids and glasses: Energy landscape and
+  statistical geometry perspectives}.
+\newblock {\em Advances in Chemical Engineering}, 28:21--79, 2001.
+
+\bibitem{Wales2012}
+David~J Wales.
+\newblock {Decoding the energy landscape: extracting structure, dynamics and
+  thermodynamics.}
+\newblock {\em Philosophical transactions. Series A, Mathematical, physical,
+  and engineering sciences}, 370(1969):2877--99, June 2012.
+
+\bibitem{Quigley2008}
+D.~Quigley and P.~M. Rodger.
+\newblock {Metadynamics simulations of ice nucleation and growth}.
+\newblock {\em Journal of Chemical Physics}, 128(15), 2008.
+
+\bibitem{Kushima2009}
+Akihiro Kushima, Xi~Lin, Ju~Li, Jacob Eapen, John~C Mauro, Xiaofeng Qian, Phong
+  Diep, and Sidney Yip.
+\newblock {Computing the viscosity of supercooled liquids.}
+\newblock {\em The Journal of chemical physics}, 130(22):224504, July 2009.
+
+\bibitem{Kushima2009a}
+Akihiro Kushima, Xi~Lin, Ju~Li, Xiaofeng Qian, Jacob Eapen, John~C Mauro, Phong
+  Diep, and Sidney Yip.
+\newblock {Computing the viscosity of supercooled liquids. II. Silica and
+  strong-fragile crossover behavior.}
+\newblock {\em The Journal of chemical physics}, 131(16):164505, October 2009.
+
+\bibitem{Royall2015}
+C.~Patrick Royall and Stephen~R. Williams.
+\newblock {The role of local structure in dynamical arrest}.
+\newblock {\em Physics Reports}, 560:1--75, 2015.
+
+\bibitem{Melorose2015}
+M.~Ferrario, G.~Ciccotti, and K.~Binder.
+\newblock {\em Computer Simulations in Condensed Matter: From Materials to
+  Chemical Biology}.
+\newblock Number v. 2 in Lecture Notes in Physics. Springer Berlin Heidelberg,
+  2010.
+
+\bibitem{GROMACS}
+Erik Lindahl, Berk Hess, and David van~der Spoel.
+\newblock Gromacs 3.0: a package for molecular simulation and trajectory
+  analysis.
+\newblock {\em Molecular modeling annual}, 7(8):306--317.
+
+\bibitem{OpenMP}
+{OpenMP Architecture Review Board}.
+\newblock {OpenMP} application program interface version 3.0, May 2008.
+
+\bibitem{quench}
+Thomas~B. Schrøder, Srikanth Sastry, Jeppe~C. Dyre, and Sharon~C. Glotzer.
+\newblock Crossover to potential energy landscape dominated dynamics in a model
+  glass-forming liquid.
+\newblock {\em The Journal of Chemical Physics}, 112(22), 2000.
+
+\bibitem{BOP_first}
+Paul~J. Steinhardt, David~R. Nelson, and Marco Ronchetti.
+\newblock Bond-orientational order in liquids and glasses.
+\newblock {\em Physical Review B}, 28:784--805, Jul 1983.
+
+\bibitem{BOP}
+Wolfgang Lechner and Christoph Dellago.
+\newblock Accurate determination of crystal structures based on averaged local
+  bond order parameters.
+\newblock {\em The Journal of Chemical Physics}, 129(11), 2008.
+
+\bibitem{BOP_values}
+Yanting Wang, S.~Teitel, and Christoph Dellago.
+\newblock Melting of icosahedral gold nanoclusters from molecular dynamics
+  simulations.
+\newblock {\em The Journal of Chemical Physics}, 122(21), 2005.
+
+\bibitem{Jones463}
+J.~E. Jones.
+\newblock On the determination of molecular fields. ii. from the equation of
+  state of a gas.
+\newblock {\em Proceedings of the Royal Society of London A: Mathematical,
+  Physical and Engineering Sciences}, 106(738):463--477, 1924.
+
+\bibitem{Verlet1967}
+Loup Verlet.
+\newblock Computer "experiments" on classical fluids. i. thermodynamical
+  properties of lennard-jones molecules.
+\newblock {\em Phys. Rev.}, 159:98--103, Jul 1967.
+
+\bibitem{Hansen1969}
+Jean-Pierre Hansen and Loup Verlet.
+\newblock Phase transitions of the lennard-jones system.
+\newblock {\em Physical Review}, 184:151--161, Aug 1969.
+
+\bibitem{Dexter2009}
+A.~R. Dexter and A.~J. Matheson.
+\newblock Elastic moduli and stress relaxation times in liquid argon.
+\newblock {\em The Journal of Chemical Physics}, 54(1):203--208, 1971.
+
+\bibitem{Park2004}
+Seungho Park, Sung~San Cho, Joon~Sik Lee, Young~Ki Choi, and Ohmyoung Kwon.
+\newblock Molecular dynamics study on external field induced crystallization of
+  amorphous argon structure.
+\newblock {\em KSME International Journal}, 18(11):2042--2048, 2004.
+
+\bibitem{De2014}
+Sandip De, Bastian Schaefer, Ali Sadeghi, Michael Sicher, D.~G. Kanhere, and
+  Stefan Goedecker.
+\newblock Relation between the dynamics of glassy clusters and characteristic
+  features of their energy landscape.
+\newblock {\em Physical Review Letters}, 112:083401, Feb 2014.
+
+\bibitem{PhysRevE.51.4626}
+Walter Kob and Hans~C. Andersen.
+\newblock Testing mode-coupling theory for a supercooled binary lennard-jones
+  mixture i: The van hove correlation function.
+\newblock {\em Physical Review E}, 51:4626--4641, May 1995.
+
+\bibitem{Haji-Akbari2015}
+Amir Haji-Akbari and Pablo~G Debenedetti.
+\newblock {Direct calculation of ice homogeneous nucleation rate for a
+  molecular model of water.}
+\newblock {\em Proceedings of the National Academy of Sciences},
+  112(34):10582--8, 2015.
+
+\bibitem{LAMMPS}
+Steve Plimpton.
+\newblock Fast parallel algorithms for short-range molecular dynamics.
+\newblock {\em Journal of Computational Physics}, 117(1):1 -- 19, 1995.
+
+\bibitem{CaiREMA}
+Zhikun Cai and Yang Zhang.
+\newblock {RMA: a relaxation excitation mode analysis}.
+\newblock {\em To be submitted}.
+
+\bibitem{CaiRMA}
+Zhikun Cai and Yang Zhang.
+\newblock {RMA: a relaxation mode analysis}.
+\newblock {\em To be submitted}.
+
+\bibitem{TRAVIS}
+Martin Brehm and Barbara Kirchner.
+\newblock Travis - a free analyzer and visualizer for monte carlo and molecular
+  dynamics trajectories.
+\newblock {\em Journal of Chemical Information and Modeling}, 51(8):2007--2023,
+  2011.
+\newblock PMID: 21761915.
+
+\bibitem{nMOLDYN}
+T.~Róg, K.~Murzyn, K.~Hinsen, and G.~R. Kneller.
+\newblock nmoldyn: A program package for a neutron scattering oriented analysis
+  of molecular dynamics simulations.
+\newblock {\em Journal of Computational Chemistry}, 24(5):657--667, 2003.
+
+\bibitem{LiquidLib}
+Nathan Walter, Abhishek Jaiswal, Zhikun Cai, and Yang Zhang.
+\newblock {LiquidLib: A comprehensive tool for post processing of classical and
+  \textit{ab initio} molecular dynamics simulations of liquids with application
+  to neutron scattering experiments}.
+\newblock {\em To be submitted}.
+
+\bibitem{VASP}
+G.~Kresse and J.~Hafner.
+\newblock \textit{Ab initio} molecular dynamics for liquid metals.
+\newblock {\em Physical Review B}, 47:558--561, Jan 1993.
+
+\bibitem{Charbonneau2012}
+P.~Charbonneau, a.~Ikeda, G.~Parisi, and F.~Zamponi.
+\newblock {Dimensional study of the caging order parameter at the glass
+  transition}.
+\newblock {\em Proceedings of the National Academy of Sciences},
+  109(35):13939--13943, 2012.
+
+\bibitem{Charbonneau2013}
+Benoit Charbonneau, Patrick Charbonneau, Yuliang Jin, Giorgio Parisi, and
+  Francesco Zamponi.
+\newblock {Dimensional dependence of the Stokes-Einstein relation and its
+  violation}.
+\newblock {\em Journal of Chemical Physics}, 139(16), 2013.
+
+\bibitem{Stillinger1974}
+Frank~H. Stillinger and Aneesur Rahman.
+\newblock Improved simulation of liquid water by molecular dynamics.
+\newblock {\em The Journal of Chemical Physics}, 60(4), 1974.
+
+\end{thebibliography}

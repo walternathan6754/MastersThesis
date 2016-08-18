@@ -1,0 +1,60 @@
+This is BibTeX, Version 0.99d (TeX Live 2015)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: thesis-ex.aux
+The style file: unsrt.bst
+Database file #1: ./include/thesisbib.bib.bib
+You're missing a field part---line 83 of file ./include/thesisbib.bib.bib
+ :  eid = 
+ :        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 308 of file ./include/thesisbib.bib.bib
+ : @incollection{EGELSTAFF
+ :                        ,
+I'm skipping whatever remains of this entry
+Warning--can't use both author and editor fields in HANSEN2006v
+Warning--empty year in GROMACS
+Warning--empty year in CaiREMA
+Warning--empty year in CaiRMA
+Warning--empty year in LiquidLib
+You've used 55 entries,
+            1791 wiz_defined-function locations,
+            821 strings with 12751 characters,
+and the built_in function-call counts, 11772 in all, are:
+= -- 1041
+> -- 529
+< -- 1
++ -- 200
+- -- 145
+* -- 883
+:= -- 1929
+add.period$ -- 168
+call.type$ -- 55
+change.case$ -- 47
+chr.to.int$ -- 0
+cite$ -- 60
+duplicate$ -- 489
+empty$ -- 1157
+format.name$ -- 145
+if$ -- 2547
+int.to.chr$ -- 0
+int.to.str$ -- 55
+missing$ -- 63
+newline$ -- 278
+num.names$ -- 55
+pop$ -- 115
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 180
+stack$ -- 0
+substring$ -- 801
+swap$ -- 57
+text.length$ -- 1
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 5
+while$ -- 113
+width$ -- 57
+write$ -- 595
+(There were 2 error messages)

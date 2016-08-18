@@ -1,0 +1,838 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  18 JUL 2016 15:36
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**thesis-ex.tex
+(./thesis-ex.tex
+LaTeX2e <2015/01/01>
+Babel <3.9l> and hyphenation patterns for 79 languages loaded.
+(./uiucthesis2009.cls
+Document Class: uiucthesis2009 2009/10/10\ v2.25a\ UIUC Thesis (PJC)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/bk10.clo
+File: bk10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+\thesis@chapskip=\skip43
+\chaptertitleheight=\skip44
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 94.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count88
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2013/01/14 v2.14 AMS math features
+\@mathmargin=\skip45
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks15
+\ex@=\dimen105
+))
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen106
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count89
+LaTeX Info: Redefining \frac on input line 210.
+\uproot@=\count90
+\leftroot@=\count91
+LaTeX Info: Redefining \overline on input line 306.
+\classnum@=\count92
+\DOTSCASE@=\count93
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen107
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+\macc@depth=\count94
+\c@MaxMatrixCols=\count95
+\dotsspace@=\muskip10
+\c@parentequation=\count96
+\dspbrk@lvl=\count97
+\tag@help=\toks16
+\row@=\count98
+\column@=\count99
+\maxfields@=\count100
+\andhelp@=\toks17
+\eqnshift@=\dimen108
+\alignsep@=\dimen109
+\tagshift@=\dimen110
+\tagwidth@=\dimen111
+\totwidth@=\dimen112
+\lineht@=\dimen113
+\@envbody=\toks18
+\multlinegap=\skip46
+\multlinetaggap=\skip47
+\mathdisplay@stack=\toks19
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
+)
+(./thesis-ex.aux)
+\openout1 = `thesis-ex.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+\chapternumberheight=\dimen114
+
+(/usr/local/texlive/2015/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count101
+\scratchdimen=\dimen115
+\scratchbox=\box28
+\nofMPsegments=\count102
+\nofMParguments=\count103
+\everyMPshowfont=\toks20
+\MPscratchCnt=\count104
+\MPscratchDim=\dimen116
+\MPnumerator=\count105
+\makeMPintoPDFobject=\count106
+\everyMPtoPDFconversion=\toks21
+) (/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 27.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 27.
+ [1
+
+{/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+\thesis@dim=\dimen117
+\ct@dim=\dimen118
+\cn@dim=\dimen119
+
+Underfull \vbox (badness 10000) detected at line 27
+ []
+
+
+Underfull \vbox (badness 10000) detected at line 27
+ []
+
+[2] (./include/abstract.tex) [2
+
+
+] (./include/dedication.tex) [3]
+(./include/Acknowledgments.tex) [4
+
+] (./thesis-ex.toc [5
+
+])
+\tf@toc=\write3
+\openout3 = `thesis-ex.toc'.
+
+ [6] (./thesis-ex.lot)
+\tf@lot=\write4
+\openout4 = `thesis-ex.lot'.
+
+[7
+
+] (./thesis-ex.lof [8
+
+] [9] [10])
+\tf@lof=\write5
+\openout5 = `thesis-ex.lof'.
+
+ [11] [12
+
+] [13
+
+]
+Chapter 1.
+(./include/Introduction.tex
+<./Figures/Introduction/phase_diagram.png, id=56, 574.7874pt x 542.025pt>
+File: ./Figures/Introduction/phase_diagram.png Graphic file (type png)
+
+<use ./Figures/Introduction/phase_diagram.png>
+Package pdftex.def Info: ./Figures/Introduction/phase_diagram.png used on input
+ line 5.
+(pdftex.def)             Requested size: 234.5pt x 221.13168pt.
+ [1
+
+
+ <./Figures/Introduction/phase_diagram.png>]
+<./Figures/Introduction/overall_rates.pdf, id=62, 501.875pt x 501.875pt>
+File: ./Figures/Introduction/overall_rates.pdf Graphic file (type pdf)
+
+<use ./Figures/Introduction/overall_rates.pdf>
+Package pdftex.def Info: ./Figures/Introduction/overall_rates.pdf used on input
+ line 16.
+(pdftex.def)             Requested size: 234.5pt x 234.50284pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[2] [3 <./Figures/Introduction/overall_rates.pdf>]) [4]
+Chapter 2.
+(./include/Nucleation_Theory.tex
+<./Figures/CNT/nucleation.png, id=99, 627.34375pt x 465.74pt>
+File: ./Figures/CNT/nucleation.png Graphic file (type png)
+
+<use ./Figures/CNT/nucleation.png>
+Package pdftex.def Info: ./Figures/CNT/nucleation.png used on input line 6.
+(pdftex.def)             Requested size: 234.5pt x 174.09064pt.
+ [5
+
+ <./Figures/CNT/nucleation.png>] [6]
+<./Figures/CNT/cnt_energy.pdf, id=108, 501.875pt x 501.875pt>
+File: ./Figures/CNT/cnt_energy.pdf Graphic file (type pdf)
+
+<use ./Figures/CNT/cnt_energy.pdf>
+Package pdftex.def Info: ./Figures/CNT/cnt_energy.pdf used on input line 45.
+(pdftex.def)             Requested size: 234.5pt x 234.50284pt.
+ [7 <./Figures/CNT/cnt_energy.pdf>]
+<./Figures/CNT/cnt_mu.pdf, id=157, 501.875pt x 501.875pt>
+File: ./Figures/CNT/cnt_mu.pdf Graphic file (type pdf)
+
+<use ./Figures/CNT/cnt_mu.pdf>
+Package pdftex.def Info: ./Figures/CNT/cnt_mu.pdf used on input line 71.
+(pdftex.def)             Requested size: 234.5pt x 234.50284pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[8] [9 <./Figures/CNT/cnt_mu.pdf>]
+<./Figures/CNT/cnt_failure.png, id=212, 1173.38374pt x 818.05624pt>
+File: ./Figures/CNT/cnt_failure.png Graphic file (type png)
+
+<use ./Figures/CNT/cnt_failure.png>
+Package pdftex.def Info: ./Figures/CNT/cnt_failure.png used on input line 97.
+(pdftex.def)             Requested size: 211.04857pt x 147.13142pt.
+
+<./Figures/CNT/cnt_failure_2.png, id=213, 1253.68375pt x 839.135pt>
+File: ./Figures/CNT/cnt_failure_2.png Graphic file (type png)
+
+<use ./Figures/CNT/cnt_failure_2.png>
+Package pdftex.def Info: ./Figures/CNT/cnt_failure_2.png used on input line 98.
+
+(pdftex.def)             Requested size: 229.81258pt x 153.81627pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[10] [11 <./Figures/CNT/cnt_failure.png> <./Figures/CNT/cnt_failure_2.png>]
+[12] <./Figures/CNT/extended_cnt.pdf, id=226, 501.875pt x 501.875pt>
+File: ./Figures/CNT/extended_cnt.pdf Graphic file (type pdf)
+
+<use ./Figures/CNT/extended_cnt.pdf>
+Package pdftex.def Info: ./Figures/CNT/extended_cnt.pdf used on input line 126.
+
+(pdftex.def)             Requested size: 234.5pt x 234.50284pt.
+ [13 <./Figures/CNT/extended_cnt.pdf>])
+[14]
+Chapter 3.
+(./include/Metadynamics.tex
+<./Figures/MTD/Energy_landscape.png, id=260, 790.955pt x 567.11874pt>
+File: ./Figures/MTD/Energy_landscape.png Graphic file (type png)
+
+<use ./Figures/MTD/Energy_landscape.png>
+Package pdftex.def Info: ./Figures/MTD/Energy_landscape.png used on input line 
+8.
+(pdftex.def)             Requested size: 234.5pt x 168.13797pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[15
+
+] [16 <./Figures/MTD/Energy_landscape.png>] [17] [18]
+<./Figures/MTD/MTD_1.pdf, id=276, 794.97pt x 614.295pt>
+File: ./Figures/MTD/MTD_1.pdf Graphic file (type pdf)
+
+<use ./Figures/MTD/MTD_1.pdf>
+Package pdftex.def Info: ./Figures/MTD/MTD_1.pdf used on input line 53.
+(pdftex.def)             Requested size: 211.04857pt x 163.07797pt.
+
+<./Figures/MTD/MTD_2.pdf, id=277, 794.97pt x 614.295pt>
+File: ./Figures/MTD/MTD_2.pdf Graphic file (type pdf)
+
+<use ./Figures/MTD/MTD_2.pdf>
+Package pdftex.def Info: ./Figures/MTD/MTD_2.pdf used on input line 54.
+(pdftex.def)             Requested size: 211.04857pt x 163.07797pt.
+
+<./Figures/MTD/MTD_3.pdf, id=278, 794.97pt x 614.295pt>
+File: ./Figures/MTD/MTD_3.pdf Graphic file (type pdf)
+
+<use ./Figures/MTD/MTD_3.pdf>
+Package pdftex.def Info: ./Figures/MTD/MTD_3.pdf used on input line 57.
+(pdftex.def)             Requested size: 211.04857pt x 163.07797pt.
+
+<./Figures/MTD/MTD_4.pdf, id=279, 794.97pt x 614.295pt>
+File: ./Figures/MTD/MTD_4.pdf Graphic file (type pdf)
+
+<use ./Figures/MTD/MTD_4.pdf>
+Package pdftex.def Info: ./Figures/MTD/MTD_4.pdf used on input line 58.
+(pdftex.def)             Requested size: 211.04857pt x 163.07797pt.
+ [19] [20 <./Figures/MTD/MTD_1.pdf> <./Figures/MTD/MTD_2.pdf> <./Figures/MTD/MT
+D_3.pdf> <./Figures/MTD/MTD_4.pdf>] [21]
+<./Figures/MTD/dynamic_stepsize.pdf, id=406, 501.875pt x 501.875pt>
+File: ./Figures/MTD/dynamic_stepsize.pdf Graphic file (type pdf)
+
+<use ./Figures/MTD/dynamic_stepsize.pdf>
+Package pdftex.def Info: ./Figures/MTD/dynamic_stepsize.pdf used on input line 
+74.
+(pdftex.def)             Requested size: 234.5pt x 234.50284pt.
+ [22 <./Figures/MTD/dynamic_stepsize.pdf>] [23] <./Figures/MTD/width_dependence
+.pdf, id=442, 501.875pt x 501.875pt>
+File: ./Figures/MTD/width_dependence.pdf Graphic file (type pdf)
+
+<use ./Figures/MTD/width_dependence.pdf>
+Package pdftex.def Info: ./Figures/MTD/width_dependence.pdf used on input line 
+100.
+(pdftex.def)             Requested size: 211.04857pt x 211.05408pt.
+
+<./Figures/MTD/height_dependence.pdf, id=443, 501.875pt x 501.875pt>
+File: ./Figures/MTD/height_dependence.pdf Graphic file (type pdf)
+
+<use ./Figures/MTD/height_dependence.pdf>
+Package pdftex.def Info: ./Figures/MTD/height_dependence.pdf used on input line
+ 102.
+(pdftex.def)             Requested size: 211.04857pt x 211.05408pt.
+ [24 <./Figures/MTD/width_dependence.pdf> <./Figures/MTD/height_dependence.pdf>
+] [25]
+<./Figures/MTD/temperature_cuts.pdf, id=515, 501.875pt x 501.875pt>
+File: ./Figures/MTD/temperature_cuts.pdf Graphic file (type pdf)
+
+<use ./Figures/MTD/temperature_cuts.pdf>
+Package pdftex.def Info: ./Figures/MTD/temperature_cuts.pdf used on input line 
+116.
+(pdftex.def)             Requested size: 234.5pt x 234.50284pt.
+ [26 <./Figures/MTD/temperature_cuts.pdf>] <./Figures/MTD/example_mapping.pdf, 
+id=533, 501.875pt x 501.875pt>
+File: ./Figures/MTD/example_mapping.pdf Graphic file (type pdf)
+
+<use ./Figures/MTD/example_mapping.pdf>
+Package pdftex.def Info: ./Figures/MTD/example_mapping.pdf used on input line 1
+25.
+(pdftex.def)             Requested size: 234.5pt x 234.50284pt.
+ [27 <./Figures/MTD/example_mapping.pdf>] [28] [29]) [30]
+Chapter 4.
+(./include/Nucleation.tex
+<./Figures/Nucleation/LJ_potential.pdf, id=579, 501.875pt x 501.875pt>
+File: ./Figures/Nucleation/LJ_potential.pdf Graphic file (type pdf)
+
+<use ./Figures/Nucleation/LJ_potential.pdf>
+Package pdftex.def Info: ./Figures/Nucleation/LJ_potential.pdf used on input li
+ne 8.
+(pdftex.def)             Requested size: 234.5pt x 234.50284pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[31
+
+] [32 <./Figures/Nucleation/LJ_potential.pdf>]
+<./Figures/Nucleation/high_density/g_r.pdf, id=650, 578.16pt x 433.62pt>
+File: ./Figures/Nucleation/high_density/g_r.pdf Graphic file (type pdf)
+
+<use ./Figures/Nucleation/high_density/g_r.pdf>
+Package pdftex.def Info: ./Figures/Nucleation/high_density/g_r.pdf used on inpu
+t line 30.
+(pdftex.def)             Requested size: 211.04857pt x 158.28651pt.
+
+<./Figures/Nucleation/low_density/g_r.pdf, id=651, 578.16pt x 433.62pt>
+File: ./Figures/Nucleation/low_density/g_r.pdf Graphic file (type pdf)
+
+<use ./Figures/Nucleation/low_density/g_r.pdf>
+Package pdftex.def Info: ./Figures/Nucleation/low_density/g_r.pdf used on input
+ line 32.
+(pdftex.def)             Requested size: 211.04857pt x 158.28651pt.
+ [33 <./Figures/Nucleation/high_density/g_r.pdf> <./Figures/Nucleation/low_dens
+ity/g_r.pdf
+
+pdfTeX warning: /Library/Tex/Root/bin/x86_64-darwin/pdflatex (file ./Figures/Nu
+cleation/low_density/g_r.pdf): PDF inclusion: multiple pdfs with page group inc
+luded in a single page
+>]
+<./Figures/Nucleation/high_density/landscape.pdf, id=690, 502.87875pt x 502.878
+75pt>
+File: ./Figures/Nucleation/high_density/landscape.pdf Graphic file (type pdf)
+ <use ./Figures/Nucleation/high_density/landscape.pdf>
+Package pdftex.def Info: ./Figures/Nucleation/high_density/landscape.pdf used o
+n input line 44.
+(pdftex.def)             Requested size: 211.04857pt x 211.0465pt.
+
+<./Figures/Nucleation/low_density/landscape.pdf, id=691, 501.875pt x 501.875pt>
+File: ./Figures/Nucleation/low_density/landscape.pdf Graphic file (type pdf)
+<use ./Figures/Nucleation/low_density/landscape.pdf>
+Package pdftex.def Info: ./Figures/Nucleation/low_density/landscape.pdf used on
+ input line 46.
+(pdftex.def)             Requested size: 211.04857pt x 211.05408pt.
+ [34 <./Figures/Nucleation/high_density/landscape.pdf> <./Figures/Nucleation/lo
+w_density/landscape.pdf>]
+<./Figures/Nucleation/mtd_amorphous.png, id=753, 722.7pt x 541.0614pt>
+File: ./Figures/Nucleation/mtd_amorphous.png Graphic file (type png)
+
+<use ./Figures/Nucleation/mtd_amorphous.png>
+Package pdftex.def Info: ./Figures/Nucleation/mtd_amorphous.png used on input l
+ine 57.
+(pdftex.def)             Requested size: 211.04857pt x 158.00182pt.
+
+<./Figures/Nucleation/mtd_prenucleation.png, id=754, 722.7pt x 541.0614pt>
+File: ./Figures/Nucleation/mtd_prenucleation.png Graphic file (type png)
+
+<use ./Figures/Nucleation/mtd_prenucleation.png>
+Package pdftex.def Info: ./Figures/Nucleation/mtd_prenucleation.png used on inp
+ut line 59.
+(pdftex.def)             Requested size: 211.04857pt x 158.00182pt.
+
+<./Figures/Nucleation/mtd_nucleation.png, id=755, 722.7pt x 541.0614pt>
+File: ./Figures/Nucleation/mtd_nucleation.png Graphic file (type png)
+
+<use ./Figures/Nucleation/mtd_nucleation.png>
+Package pdftex.def Info: ./Figures/Nucleation/mtd_nucleation.png used on input 
+line 62.
+(pdftex.def)             Requested size: 211.04857pt x 158.00182pt.
+
+<./Figures/Nucleation/mtd_crystal.png, id=756, 722.7pt x 541.0614pt>
+File: ./Figures/Nucleation/mtd_crystal.png Graphic file (type png)
+
+<use ./Figures/Nucleation/mtd_crystal.png>
+Package pdftex.def Info: ./Figures/Nucleation/mtd_crystal.png used on input lin
+e 64.
+(pdftex.def)             Requested size: 211.04857pt x 158.00182pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[35]
+<./Figures/Nucleation/high_density/heatplot_bar.png, id=761, 702.625pt x 602.25
+pt>
+File: ./Figures/Nucleation/high_density/heatplot_bar.png Graphic file (type png
+)
+ <use ./Figures/Nucleation/high_density/heatplot_bar.png>
+Package pdftex.def Info: ./Figures/Nucleation/high_density/heatplot_bar.png use
+d on input line 75.
+(pdftex.def)             Requested size: 211.04857pt x 180.89694pt.
+
+<./Figures/Nucleation/high_density/Q6_landscape.pdf, id=762, 702.625pt x 602.25
+pt>
+File: ./Figures/Nucleation/high_density/Q6_landscape.pdf Graphic file (type pdf
+)
+ <use ./Figures/Nucleation/high_density/Q6_landscape.pdf>
+Package pdftex.def Info: ./Figures/Nucleation/high_density/Q6_landscape.pdf use
+d on input line 77.
+(pdftex.def)             Requested size: 211.04857pt x 180.89694pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[36 <./Figures/Nucleation/mtd_amorphous.png> <./Figures/Nucleation/mtd_prenucle
+ation.png> <./Figures/Nucleation/mtd_nucleation.png> <./Figures/Nucleation/mtd_
+crystal.png>]
+<./Figures/Nucleation/nucleation_landscape.pdf, id=770, 869.91699pt x 1041.3303
+4pt>
+File: ./Figures/Nucleation/nucleation_landscape.pdf Graphic file (type pdf)
+ <use ./Figures/Nucleation/nucleation_landscape.pdf>
+Package pdftex.def Info: ./Figures/Nucleation/nucleation_landscape.pdf used on 
+input line 89.
+(pdftex.def)             Requested size: 234.5pt x 280.70215pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[37 <./Figures/Nucleation/high_density/heatplot_bar.png (PNG copy)> <./Figures/
+Nucleation/high_density/Q6_landscape.pdf>] [38 <./Figures/Nucleation/nucleation
+_landscape.pdf>]
+<./Figures/Nucleation/high_density/TemperatureMapping.pdf, id=844, 501.875pt x 
+501.875pt>
+File: ./Figures/Nucleation/high_density/TemperatureMapping.pdf Graphic file (ty
+pe pdf)
+ <use ./Figures/Nucleation/high_density/TemperatureMapping.pdf>
+Package pdftex.def Info: ./Figures/Nucleation/high_density/TemperatureMapping.p
+df used on input line 100.
+(pdftex.def)             Requested size: 211.04857pt x 211.05408pt.
+
+<./Figures/Nucleation/low_density/TemperatureMapping.pdf, id=845, 501.875pt x 5
+01.875pt>
+File: ./Figures/Nucleation/low_density/TemperatureMapping.pdf Graphic file (typ
+e pdf)
+ <use ./Figures/Nucleation/low_density/TemperatureMapping.pdf>
+Package pdftex.def Info: ./Figures/Nucleation/low_density/TemperatureMapping.pd
+f used on input line 102.
+(pdftex.def)             Requested size: 211.04857pt x 211.05408pt.
+
+<./Figures/Nucleation/high_density/activation_energies.pdf, id=846, 501.875pt x
+ 501.875pt>
+File: ./Figures/Nucleation/high_density/activation_energies.pdf Graphic file (t
+ype pdf)
+ <use ./Figures/Nucleation/high_density/activation_energies.pdf>
+Package pdftex.def Info: ./Figures/Nucleation/high_density/activation_energies.
+pdf used on input line 111.
+(pdftex.def)             Requested size: 211.04857pt x 211.05408pt.
+
+<./Figures/Nucleation/low_density/activation_energies.pdf, id=847, 501.875pt x 
+501.875pt>
+File: ./Figures/Nucleation/low_density/activation_energies.pdf Graphic file (ty
+pe pdf)
+ <use ./Figures/Nucleation/low_density/activation_energies.pdf>
+Package pdftex.def Info: ./Figures/Nucleation/low_density/activation_energies.p
+df used on input line 113.
+(pdftex.def)             Requested size: 211.04857pt x 211.05408pt.
+
+[39 <./Figures/Nucleation/high_density/TemperatureMapping.pdf> <./Figures/Nucle
+ation/low_density/TemperatureMapping.pdf>] [40 <./Figures/Nucleation/high_densi
+ty/activation_energies.pdf> <./Figures/Nucleation/low_density/activation_energi
+es.pdf>]
+<./Figures/Nucleation/high_density/trend.pdf, id=987, 501.875pt x 501.875pt>
+File: ./Figures/Nucleation/high_density/trend.pdf Graphic file (type pdf)
+
+<use ./Figures/Nucleation/high_density/trend.pdf>
+Package pdftex.def Info: ./Figures/Nucleation/high_density/trend.pdf used on in
+put line 133.
+(pdftex.def)             Requested size: 211.04857pt x 211.05408pt.
+
+<./Figures/Nucleation/low_density/trend.pdf, id=988, 501.875pt x 501.875pt>
+File: ./Figures/Nucleation/low_density/trend.pdf Graphic file (type pdf)
+
+<use ./Figures/Nucleation/low_density/trend.pdf>
+Package pdftex.def Info: ./Figures/Nucleation/low_density/trend.pdf used on inp
+ut line 135.
+(pdftex.def)             Requested size: 211.04857pt x 211.05408pt.
+ [41 <./Figures/Nucleation/high_density/trend.pdf> <./Figures/Nucleation/low_de
+nsity/trend.pdf>]
+<./Figures/Nucleation/LJ_phase_density.png, id=1075, 459.7175pt x 537.00626pt>
+File: ./Figures/Nucleation/LJ_phase_density.png Graphic file (type png)
+
+<use ./Figures/Nucleation/LJ_phase_density.png>
+Package pdftex.def Info: ./Figures/Nucleation/LJ_phase_density.png used on inpu
+t line 144.
+(pdftex.def)             Requested size: 211.04857pt x 246.53423pt.
+ [42 <./Figures/Nucleation/LJ_phase_density.png>]
+<./Figures/Nucleation/high_density/time.pdf, id=1080, 501.875pt x 501.875pt>
+File: ./Figures/Nucleation/high_density/time.pdf Graphic file (type pdf)
+
+<use ./Figures/Nucleation/high_density/time.pdf>
+Package pdftex.def Info: ./Figures/Nucleation/high_density/time.pdf used on inp
+ut line 165.
+(pdftex.def)             Requested size: 211.04857pt x 211.05408pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+) [43] [44 <./Figures/Nucleation/high_density/time.pdf>]
+Chapter 5.
+(./include/glass_vs_crystal.tex [45
+
+]
+<./Figures/Landscape/glassy_landscape.pdf, id=1113, 501.875pt x 501.875pt>
+File: ./Figures/Landscape/glassy_landscape.pdf Graphic file (type pdf)
+
+<use ./Figures/Landscape/glassy_landscape.pdf>
+Package pdftex.def Info: ./Figures/Landscape/glassy_landscape.pdf used on input
+ line 16.
+(pdftex.def)             Requested size: 211.04857pt x 211.05408pt.
+
+<./Figures/Landscape/crystal_landscape.pdf, id=1114, 501.875pt x 501.875pt>
+File: ./Figures/Landscape/crystal_landscape.pdf Graphic file (type pdf)
+
+<use ./Figures/Landscape/crystal_landscape.pdf>
+Package pdftex.def Info: ./Figures/Landscape/crystal_landscape.pdf used on inpu
+t line 18.
+(pdftex.def)             Requested size: 211.04857pt x 211.05408pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[46] <./Figures/Landscape/glassy_time.pdf, id=1118, 501.875pt x 501.875pt>
+File: ./Figures/Landscape/glassy_time.pdf Graphic file (type pdf)
+
+<use ./Figures/Landscape/glassy_time.pdf>
+Package pdftex.def Info: ./Figures/Landscape/glassy_time.pdf used on input line
+ 29.
+(pdftex.def)             Requested size: 211.04857pt x 211.05408pt.
+
+<./Figures/Landscape/crystal_time.pdf, id=1119, 501.875pt x 501.875pt>
+File: ./Figures/Landscape/crystal_time.pdf Graphic file (type pdf)
+
+<use ./Figures/Landscape/crystal_time.pdf>
+Package pdftex.def Info: ./Figures/Landscape/crystal_time.pdf used on input lin
+e 31.
+(pdftex.def)             Requested size: 211.04857pt x 211.05408pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[47 <./Figures/Landscape/glassy_landscape.pdf> <./Figures/Landscape/crystal_lan
+dscape.pdf>]) [48 <./Figures/Landscape/glassy_time.pdf> <./Figures/Landscape/cr
+ystal_time.pdf>]
+Chapter 6.
+(./include/Conclusions.tex [49
+
+] [50] [51] [52]) [53]
+Appendix A.
+(./include/implementation.tex
+<./Figures/Appendix/MTD_flowchart.pdf, id=1272, 1084.05pt x 1927.2pt>
+File: ./Figures/Appendix/MTD_flowchart.pdf Graphic file (type pdf)
+
+<use ./Figures/Appendix/MTD_flowchart.pdf>
+Package pdftex.def Info: ./Figures/Appendix/MTD_flowchart.pdf used on input lin
+e 9.
+(pdftex.def)             Requested size: 343.71063pt x 611.04045pt.
+) [54
+
+] [55 <./Figures/Appendix/MTD_flowchart.pdf>]
+Appendix B.
+(./include/LiquidLib.tex [56
+
+]) [57]
+Appendix C.
+(./include/restrained_metadynamics.tex [58
+
+]
+<./Figures/Appendix/bop_restrain.png, id=1377, 722.7pt x 526.6074pt>
+File: ./Figures/Appendix/bop_restrain.png Graphic file (type png)
+
+<use ./Figures/Appendix/bop_restrain.png>
+Package pdftex.def Info: ./Figures/Appendix/bop_restrain.png used on input line
+ 16.
+(pdftex.def)             Requested size: 187.59714pt x 136.69774pt.
+
+<./Figures/Appendix/bop_landscape.pdf, id=1378, 502.87875pt x 402.50375pt>
+File: ./Figures/Appendix/bop_landscape.pdf Graphic file (type pdf)
+
+<use ./Figures/Appendix/bop_landscape.pdf>
+Package pdftex.def Info: ./Figures/Appendix/bop_landscape.pdf used on input lin
+e 18.
+(pdftex.def)             Requested size: 187.59714pt x 150.15239pt.
+
+<./Figures/Appendix/bop_heatplot.png, id=1379, 560.8152pt x 421.575pt>
+File: ./Figures/Appendix/bop_heatplot.png Graphic file (type png)
+
+<use ./Figures/Appendix/bop_heatplot.png>
+Package pdftex.def Info: ./Figures/Appendix/bop_heatplot.png used on input line
+ 21.
+(pdftex.def)             Requested size: 187.59714pt x 141.01782pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[59] [60 <./Figures/Appendix/bop_restrain.png> <./Figures/Appendix/bop_landscap
+e.pdf> <./Figures/Appendix/bop_heatplot.png>]
+<./Figures/Appendix/can_unfreeze.png, id=1414, 1260.71pt x 917.4275pt>
+File: ./Figures/Appendix/can_unfreeze.png Graphic file (type png)
+
+<use ./Figures/Appendix/can_unfreeze.png>
+Package pdftex.def Info: ./Figures/Appendix/can_unfreeze.png used on input line
+ 35.
+(pdftex.def)             Requested size: 187.59714pt x 136.50227pt.
+
+<./Figures/Appendix/unfreeze_landscape.pdf, id=1415, 501.875pt x 401.5pt>
+File: ./Figures/Appendix/unfreeze_landscape.pdf Graphic file (type pdf)
+
+<use ./Figures/Appendix/unfreeze_landscape.pdf>
+Package pdftex.def Info: ./Figures/Appendix/unfreeze_landscape.pdf used on inpu
+t line 37.
+(pdftex.def)             Requested size: 187.59714pt x 150.07814pt.
+
+<./Figures/Appendix/unfreeze_heatplot.png, id=1416, 560.0925pt x 424.58624pt>
+File: ./Figures/Appendix/unfreeze_heatplot.png Graphic file (type png)
+
+<use ./Figures/Appendix/unfreeze_heatplot.png>
+Package pdftex.def Info: ./Figures/Appendix/unfreeze_heatplot.png used on input
+ line 40.
+(pdftex.def)             Requested size: 187.59714pt x 142.21297pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[61] [62 <./Figures/Appendix/can_unfreeze.png (PNG copy)> <./Figures/Appendix/u
+nfreeze_landscape.pdf> <./Figures/Appendix/unfreeze_heatplot.png>]
+<./Figures/Appendix/ascent_result.pdf, id=1434, 501.875pt x 501.875pt>
+File: ./Figures/Appendix/ascent_result.pdf Graphic file (type pdf)
+
+<use ./Figures/Appendix/ascent_result.pdf>
+Package pdftex.def Info: ./Figures/Appendix/ascent_result.pdf used on input lin
+e 63.
+(pdftex.def)             Requested size: 234.5pt x 234.50284pt.
+ [63 <./Figures/Appendix/ascent_result.pdf>]) [64]
+Appendix D.
+(./include/ST2_water.tex
+<./Figures/Appendix/ST2_diagram.png, id=1459, 441.65pt x 363.3575pt>
+File: ./Figures/Appendix/ST2_diagram.png Graphic file (type png)
+
+<use ./Figures/Appendix/ST2_diagram.png>
+Package pdftex.def Info: ./Figures/Appendix/ST2_diagram.png used on input line 
+8.
+(pdftex.def)             Requested size: 93.79857pt x 77.1667pt.
+
+<./Figures/Appendix/ST2_model.png, id=1460, 361.35pt x 373.395pt>
+File: ./Figures/Appendix/ST2_model.png Graphic file (type png)
+
+<use ./Figures/Appendix/ST2_model.png>
+Package pdftex.def Info: ./Figures/Appendix/ST2_model.png used on input line 10
+.
+(pdftex.def)             Requested size: 93.79857pt x 96.92657pt.
+ [65
+
+] [66 <./Figures/Appendix/ST2_diagram.png> <./Figures/Appendix/ST2_model.png>]
+<./Figures/Appendix/st2_water_final.pdf, id=1471, 555.07375pt x 542.025pt>
+File: ./Figures/Appendix/st2_water_final.pdf Graphic file (type pdf)
+
+<use ./Figures/Appendix/st2_water_final.pdf>
+Package pdftex.def Info: ./Figures/Appendix/st2_water_final.pdf used on input l
+ine 60.
+(pdftex.def)             Requested size: 211.04857pt x 206.08742pt.
+
+<./Figures/Appendix/st2_landscape.pdf, id=1472, 502.87875pt x 501.875pt>
+File: ./Figures/Appendix/st2_landscape.pdf Graphic file (type pdf)
+
+<use ./Figures/Appendix/st2_landscape.pdf>
+Package pdftex.def Info: ./Figures/Appendix/st2_landscape.pdf used on input lin
+e 62.
+(pdftex.def)             Requested size: 211.04857pt x 210.62524pt.
+ [67]) [68 <./Figures/Appendix/st2_water_final.pdf> <./Figures/Appendix/st2_lan
+dscape.pdf>] (./thesis-ex.bbl
+[69
+
+
+]
+Missing character: There is no Ã in font cmr10!
+Missing character: There is no ¸ in font cmr10!
+ [70]
+Missing character: There is no Ã in font cmr10!
+Missing character: There is no ³ in font cmr10!
+ [71]) [72] (./thesis-ex.aux) ) 
+Here is how much of TeX's memory you used:
+ 2708 strings out of 493089
+ 43400 string characters out of 6134842
+ 100074 words of memory out of 5000000
+ 6066 multiletter control sequences out of 15000+600000
+ 10594 words of font info for 38 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 38i,16n,23p,2171b,236s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2015/texmf-dist/fonts/type1/
+public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/pu
+blic/amsfonts/cm/cmex10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/publ
+ic/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmmi5.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmmi7.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmr10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsf
+onts/cm/cmr12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmr17.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmr5.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmr7.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+sy10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cms
+y7.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmti1
+0.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb>
+Output written on thesis-ex.pdf (86 pages, 20285344 bytes).
+PDF statistics:
+ 1607 PDF objects out of 1728 (max. 8388607)
+ 1006 compressed objects within 11 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 271 words of extra memory for PDF output out of 10000 (max. 10000000)
+

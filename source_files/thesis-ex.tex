@@ -1,0 +1,141 @@
+%%
+%% This is file `thesis-ex.tex',
+%% generated with the docstrip utility.
+%%
+%% The original source files were:
+%%
+%% uiucthesis2009.dtx  (with options: `example')
+%% 
+
+%% Package and Class "uiucthesis2009" for use with LaTeX2e.
+\documentclass[edeposit,fullpage, centerchapter]{uiucthesis2009}
+\usepackage{graphicx}
+\usepackage{amsmath}
+\usepackage{fancyhdr}
+\lhead{}
+\pagestyle{fancy}
+
+
+\begin{document}
+
+\title{DIRECT ENERGY LANDSCAPE SAMPLING OF THE HOMOGENEOUS NUCLEATION AND CRYSTAL GROWTH OF A MODEL LIQUID}
+\author{Nathan Peller Walter}
+\department{Nuclear, Plasma, and Radiological Engineering}
+
+\msthesis
+\advisor{Yang Zhang}
+\degreeyear{2016}
+\committee{Assistant Professor Yang Zhang, Adviser\\Professor Brent Heuser}
+
+\maketitle
+
+\frontmatter
+
+%% Create an abstract that can also be used for the ProQuest abstract.
+%% Note that ProQuest truncates their abstracts at 350 words.
+\begin{abstract}
+\input{./include/abstract}
+\end{abstract}
+
+%% Create a dedication in italics with no heading, centered vertically
+%% on the page.
+\begin{dedication}
+\input{./include/dedication}
+\end{dedication}
+
+%% Create an Acknowledgements page, many departments require you to
+%% include funding support in this.
+\chapter*{Acknowledgments}
+\input{./include/Acknowledgments.tex}
+
+%% The thesis format requires the Table of Contents to come
+%% before any other major sections, all of these sections after
+%% the Table of Contents must be listed therein (i.e., use \chapter,
+%% not \chapter*).  Common sections to have between the Table of
+%% Contents and the main text are:
+%%
+%% List of Tables
+%% List of Figures
+%% List Symbols and/or Abbreviations
+%% etc.
+
+\tableofcontents
+\listoftables
+\listoffigures
+
+%% Create a List of Abbreviations. The left column
+%% is 1 inch wide and left-justified
+\chapter{List of Abbreviations}
+\begin{symbollist*}
+\item[BOP] Bond orientational order parameter
+\item[PEL] Potential Energy Landscape
+\item[MD] Molecular Dynamics
+\item[MC] Monte Carlo
+\item[MTD] Metadynamics
+\item[LJ] Lennard-Jones 
+\item[BCC] Body centered cubic
+\item[FCC] Face centered cubic
+\item[HCP] Hexagonal close packing
+\item[liq] Liquid State
+\item[IE] Inherent Energy
+\item[CNT] Classical Nucleation Theory
+\item[NVT] Constant number, volume, and temperature 
+\item[NPT] Constant number, pressure, and temperature
+\end{symbollist*}
+
+%% Create a List of Symbols. The left column
+%% is 0.7 inch wide and centered
+\chapter{List of Symbols}
+
+\begin{symbollist}[0.7in]
+\item[$\bar{q}_6$] Sixth-order, first nearest-neighbor averaged, bond orientational order parameter 
+\item[$T_m$] Melting temperature
+\item[$T_g$] Glass transition temperature
+\item[$\phi$] Penalty Potential Energy Function
+\item[$\alpha$] Newton's Steepest Descent Step Size
+\item[$\delta$] Force Step Size
+\end{symbollist}
+
+\mainmatter
+\chapter{Introduction}
+\input{./include/Introduction}
+
+\chapter{Classical Nucleation Theory}
+\input{./include/Nucleation_Theory}
+
+\chapter{Metadynamics Methods}
+\label{metadynamics}
+\input{./include/Metadynamics}
+
+\chapter{Nucleation of a Model Lennard-Jones Liquid}
+\input{./include/Nucleation}
+
+\chapter{Energy Landscapes of a Glass Former and Crystal Former}
+\label{compare landscapes}
+\input{./include/glass_vs_crystal}
+
+\chapter{Conclusions and Future Work}
+\input{./include/Conclusions.tex}
+
+\appendix
+\chapter{Implementation of Metadynamics into GROMACS}
+\label{code}
+\input{./include/implementation.tex}
+
+\chapter{LiquidLib}
+\input{./include/LiquidLib.tex}
+
+\chapter{Structurally Restrained Metadynamics and Steepest Ascent}
+\input{./include/restrained_metadynamics.tex}
+
+\chapter{ST2 Water}
+\input{./include/ST2_water.tex}
+
+\backmatter
+\bibliographystyle{unsrt}
+\bibliography{./include/thesisbib.bib}
+
+\end{document}
+\endinput
+%%
+%% End of file `thesis-ex.tex'.
